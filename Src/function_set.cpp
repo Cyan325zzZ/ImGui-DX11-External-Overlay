@@ -423,7 +423,7 @@ void RenderFrame(const ImVec4& clear_color)
  */
 void LoadCustomFont(ImGuiIO& io)
 {
-    HRSRC hRes = FindResourceA(NULL, MAKEINTRESOURCEA(IDR_FONT_HYWENHEI), "MYFONT");
+    HRSRC hRes = FindResourceA(NULL, MAKEINTRESOURCEA(IDR_FONT_SMILEY), "MYFONT");
     if (!hRes) return;
 
     DWORD dataSize = SizeofResource(nullptr, hRes);

@@ -1,4 +1,4 @@
 #include "windows.h"
 #include "resource.h"
 
-IDR_FONT_HYWENHEI   MYFONT "../Library/fonts/HYWenHei.ttf"
+IDR_FONT_SMILEY   MYFONT "../Library/fonts/SmileySans-Oblique-3.otf"

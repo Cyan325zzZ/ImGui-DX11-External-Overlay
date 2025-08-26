@@ -166,7 +166,7 @@
     <ClCompile Include="Src\function_set.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Library\fonts\HYWenHei.ttf" />
+    <None Include="Library\fonts\SmileySans-Oblique-3.otf" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Src\resources.rc" />

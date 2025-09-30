@@ -67,9 +67,6 @@ ImGui-DX11-External-Overlay/
 └── README_CN.md                         # Chinese README
 ```
 
-## ⚠️ Known Issues
-- **NVIDIA App Overlay Compatibility**: When the NVIDIA app overlay window is invoked, ImGui transparency may temporarily malfunction. The issue will resolve itself after a short period and does not affect normal usage.
-
 ## 📝 License
 This project adopts the [MIT License](LICENSE), supporting commercial, modified distribution, private, and patent use.
 

@@ -36,11 +36,11 @@ A high-performance external overlay program based on Dear ImGui and DirectX 11. 
    - Compile the project
 
 3. **Output Files**
-   - The compiled executable is located at: `Builds/Overlay.exe`
+   - The compiled executable is located at: `Builds/ImGui-Overlay.exe`
 
 ### Run Program
 
-Simply run the compiled `Overlay.exe` to see an ImGui window overlay at the top of the screen.
+Simply run the compiled `ImGui-Overlay.exe` to see an ImGui window overlay at the top of the screen.
 
 ## 📁 Project Structure
 

@@ -36,11 +36,11 @@
    - 编译项目
 
 3. **输出文件**
-   - 编译后的可执行文件位于：`Builds/Overlay.exe`
+   - 编译后的可执行文件位于：`Builds/ImGui-Overlay.exe`
 
 ### 运行程序
 
-直接运行编译好的 `Overlay.exe` 即可看到一个ImGui窗口覆盖在屏幕上方。
+直接运行编译好的 `ImGui-Overlay.exe` 即可看到一个ImGui窗口覆盖在屏幕上方。
 
 ## 📁 项目结构
 
